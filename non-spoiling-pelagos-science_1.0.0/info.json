@@ -1,0 +1,13 @@
+{
+    "name": "non-spoiling-pelagos-science",
+    "version": "1.0.0",
+    "title": "Non-Spoiling Pelagos Science",
+    "author": "Asterixyz",
+    "factorio_version": "2.0",
+    "dependencies": [
+	"base >= 2.0",
+	"space-age >= 2.0.0",
+	"pelagos >= 0.51.3"
+	],
+    "description": "Causes the Pelagos Science pack to not spoil because my friend thinks that's stupid."
+  }
